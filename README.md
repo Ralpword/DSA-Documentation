@@ -15,3 +15,6 @@
  - Power BI (For creating a report)
  - Ms Power Point (For Presentation)
  
+*Italics*
+
+**Bold**
